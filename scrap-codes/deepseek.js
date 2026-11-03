@@ -1,3 +1,8 @@
+// الوظيفة : سكراب ديب سيك مباشر يدعم التفكير والبحث ورفع الملفات وطريقة عرض ميتا 
+// انضم لقناتي لكل جديد : 
+# 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗜𝗡𝗚
+// https://whatsapp.com/channel/0029VbCcnFGAu3aMO6CWC73B
+
 import axios from 'axios';
 import crypto from 'crypto';
 import fs from 'fs';
